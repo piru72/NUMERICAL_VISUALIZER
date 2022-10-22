@@ -7,7 +7,7 @@ root = Tk()
 # root window title and dimension
 root.title("WELCOME TO NUMERICAL VISUALIZER")
 # Set geometry(widthxheight)
-root.geometry('5000x500')
+root.geometry('500x500')
 
 # adding menu bar in root window
 # new item in menu bar labelled as 'New'
